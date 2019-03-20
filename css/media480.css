@@ -1,0 +1,64 @@
+a{
+    font-size: 12px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+strong{
+    font-size: 15px;
+}
+p{
+    font-size: 15px;
+}
+.logo a{
+    font-size: 50px;
+}
+nav {
+    background: #ffffff;
+    padding: 12px 0;
+    margin-top: 10%;
+}
+.menu li{
+    margin-right: 0;
+    margin: 4px 0;
+    padding: 0;
+}
+.menu li a{
+    font-size: 8px;
+}
+.wrap-content{
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
+.wrap-body{
+    display: block;
+}
+.float-l{
+    float: none;
+    width: 100%;
+}
+.float-r{
+    float: none;
+    width: 100%;
+}
+.last-card .text-card {
+    padding: 40px 10px;
+}
+
+.wrap-footer{
+    width: 300px;
+    padding: 10px 0;
+}
+.footer-content{
+    margin: 10px 0;
+    float: none;
+    width: 100%;
+}

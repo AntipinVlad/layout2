@@ -1,0 +1,40 @@
+a{
+    font-size: 12px;
+}
+.header-flex a {
+    font-size: 75px;
+}
+h2{
+    font-size: 25px;
+}
+.footer_flex{
+    width: 95%;
+}
+footer{
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+footer div{
+    width: 100%;
+    margin: 1% 0;
+}
+.footer-content a{
+    font-size: 12px;
+}
+.widget-social{
+    justify-content: center;
+}
+.widget-social a{
+    padding: 0 2%;
+} 
+@media (min-width:0px) and (max-width:350px){
+    .menu-flex{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center; 
+        align-content: center;
+        list-style: none;
+    }
+}

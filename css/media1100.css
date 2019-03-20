@@ -1,0 +1,46 @@
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 20px;
+}
+strong{
+    font-size: 11px;
+}
+.wrap-content{
+    width: 90%;
+}
+
+@media (max-width:800px){
+.wrap-content{
+    width: 70%;
+}
+.logo a{
+    font-size: 60px;
+}
+.menu li{
+    margin-right:0;
+    padding: 0 5px 15px 0;
+}
+.menu li a{
+    font-size: 9px;
+}
+.wrap-body{
+    display: block;
+}
+.float-l{
+    float: none;
+    width: 100%;
+}
+.float-r{
+    float: none;
+    width: 100%;
+}
+.footer-content{
+    float: none;
+    width: 100%;
+}
+.wrap-footer{
+    padding: 15px 0 20px;
+}
+}
